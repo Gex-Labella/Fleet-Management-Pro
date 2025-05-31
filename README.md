@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
+
+"Fleet Management Pro - Local Version"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -44,3 +47,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# Fleet-Management-Pro
+A fleet management system for Medgulf construction company 
+>>>>>>> b171704befa10eafa34802841ea44bdd3c84e597
